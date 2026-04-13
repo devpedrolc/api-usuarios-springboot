@@ -36,4 +36,4 @@ Remove usuário
 ## ▶️ Como rodar
 
 ```bash
-./mvnw spring-boot:run
+mvn spring-boot:run
